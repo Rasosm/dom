@@ -1,1 +1,1 @@
-console.log('dom');
+console.log('DOM');
